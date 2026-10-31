@@ -51,9 +51,9 @@ cd student-management-system
 
 3. Run the application:
 
-
+```bash
 python main.py
-
+```
 
 ## Data Storage
 
